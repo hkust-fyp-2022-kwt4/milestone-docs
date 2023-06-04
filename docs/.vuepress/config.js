@@ -6,6 +6,7 @@ export default defineUserConfig({
     title: "Milestone admin docs",
     description: "Admin documentation for Milestone: Gamified learning system for university",
     host: 'localhost',
+    base: 'milestone-docs',
     plugins: [
         searchPlugin({
             // options
