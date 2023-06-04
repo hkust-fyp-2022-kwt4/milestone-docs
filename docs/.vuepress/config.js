@@ -14,7 +14,8 @@ export default defineUserConfig({
     ],
     theme: defaultTheme({
         repo: 'https://github.com/hkust-fyp-2022-kwt4/milestone',
-        docsRepo: '', // TODO
+        docsRepo: 'https://github.com/hkust-fyp-2022-kwt4/milestone-docs',
+        docsDir: 'docs',
         navbar: [
             '/setup/',
             '/reference/',
