@@ -21,6 +21,7 @@ export default defineUserConfig({
         repo: 'https://github.com/hkust-fyp-2022-kwt4/milestone',
         docsRepo: 'https://github.com/hkust-fyp-2022-kwt4/milestone-docs',
         docsDir: 'docs',
+        danger: 'CAUTION',
         navbar: [
             '/setup/',
             '/reference/',
@@ -30,6 +31,8 @@ export default defineUserConfig({
             '/setup/': [
                 '/setup/index.md',
                 '/setup/01-prerequisites.md',
+                '/setup/02-installation.md',
+                '/setup/03-configuration.md',
             ],
         }
     })

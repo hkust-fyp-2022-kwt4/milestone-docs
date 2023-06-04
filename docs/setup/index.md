@@ -1,5 +1,5 @@
 ---
-title: Setting up
+title: Setup
 ---
 
 # Milestone setup
@@ -7,6 +7,8 @@ title: Setting up
 Step-by-step guide on setting up Milestone for production:
 
 - [Prerequisites](./01-prerequisites.md)
+- [Installation](./02-installation.md)
+- [Configuration](./03-configuration.md)
 
 ## Quick start
 
