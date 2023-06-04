@@ -6,12 +6,17 @@ export default defineUserConfig({
     title: "Milestone admin docs",
     description: "Admin documentation for Milestone: Gamified learning system for university",
     host: 'localhost',
-    base: 'milestone-docs',
+    base: '/milestone-docs/',
     plugins: [
         searchPlugin({
             // options
         }),
     ],
+    markdown: {
+        code: {
+            lineNumbers: 5, // Only show line numbers for code blocks with >=5 lines
+        },
+    },
     theme: defaultTheme({
         repo: 'https://github.com/hkust-fyp-2022-kwt4/milestone',
         docsRepo: 'https://github.com/hkust-fyp-2022-kwt4/milestone-docs',
