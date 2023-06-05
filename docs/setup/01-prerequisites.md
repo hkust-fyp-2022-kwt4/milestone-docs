@@ -4,6 +4,14 @@ title: Prerequisites
 
 # Prerequisites
 
+The system requires the following to function properly:
+- PHP
+- Composer
+- Node.js (and npm)
+- MySQL
+
+In addition, when using in production, a web server like Apache or Nginx is needed.
+
 ## PHP
 
 Requires PHP 8.1+. Refer to [php.net](https://www.php.net/) for how to install on other OSes.
