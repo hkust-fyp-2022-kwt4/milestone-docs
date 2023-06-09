@@ -128,7 +128,7 @@ Some rewrite rules are also needed to redirect users to `index.php`. You could i
 composer require symfony/apache-pack
 ```
 
-Alternatively, you could copy the contents of the `.htaccess` file to the virtual host configuration.
+Alternatively, you could copy the contents of the `.htaccess` file to the virtual host configuration (recommended for better performance).
 
 ### Nginx
 

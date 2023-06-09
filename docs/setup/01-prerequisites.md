@@ -10,7 +10,7 @@ The system requires the following to function properly:
 - Node.js (and npm)
 - MySQL
 
-In addition, when using in production, a web server like Apache or Nginx is needed.
+In addition, when using in production, a web server like Apache or Nginx is needed. The application was only tested under HTTPS, so it is strongly recommended to prepare an environment with HTTPS capabilities.
 
 ## PHP
 

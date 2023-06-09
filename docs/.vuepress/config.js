@@ -37,6 +37,8 @@ export default defineUserConfig({
                 '/setup/01-prerequisites.md',
                 '/setup/02-installation.md',
                 '/setup/03-configuration.md',
+                '/setup/04-aad-setup.md',
+                '/setup/05-batch-jobs.md',
             ],
             '/reference/': [
                 '/reference/index.md',
