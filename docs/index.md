@@ -13,3 +13,4 @@ Welcome to the administrator documentation of Milestone. You can find informatio
 ## Contents
 
 - [Setting up Milestone](setup/)
+- [Admin guide](admin-guide/)

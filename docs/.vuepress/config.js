@@ -43,7 +43,11 @@ export default defineUserConfig({
             '/reference/': [
                 '/reference/index.md',
                 '/reference/envvars.md',
-            ]
+            ],
+            '/admin-guide/': [
+                '/admin-guide/index.md',
+                '/admin-guide/01-login.md',
+            ],
         }
     })
 });
