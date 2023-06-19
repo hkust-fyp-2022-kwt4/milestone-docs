@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9f476b2c","path":"/admin-guide/","title":"Admin guide","lang":"en-US","frontmatter":{"title":"Admin guide"},"headers":[],"git":{"updatedTime":1687182021000,"contributors":[{"name":"Kenny","email":"hllamak@connect.ust.hk","commits":1}]},"filePathRelative":"admin-guide/index.md"}');export{e as data};

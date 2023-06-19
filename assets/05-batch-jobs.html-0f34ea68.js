@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01f17c73","path":"/setup/05-batch-jobs.html","title":"Batch jobs","lang":"en-US","frontmatter":{"title":"Batch jobs"},"headers":[],"git":{"updatedTime":1686319651000,"contributors":[{"name":"Eugene Lee","email":"eugenelee0420@gmail.com","commits":1}]},"filePathRelative":"setup/05-batch-jobs.md"}');export{e as data};
